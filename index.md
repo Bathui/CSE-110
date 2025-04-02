@@ -30,7 +30,7 @@ int main(){
 https://github.com/Bathui
 
 ## Link Text
-[Another header](#Heading)
+[Another header](#heading)
 
 ## Relative links
 [Go to README.md](README.md)
