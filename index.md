@@ -27,7 +27,7 @@ int main(){
 ```
 
 ## External links
-https://github.com/Bathui
+[Website](https://github.com/Bathui)
 
 ## Link Text
 [Another header](#heading)
